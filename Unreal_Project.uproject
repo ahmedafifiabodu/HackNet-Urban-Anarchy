@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Char_RobotCar",
+			"Enabled": true
+		},
+		{
+			"Name": "TwinBlast",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimRetargetting",
+			"Enabled": true
+		}
+	]
+}
